@@ -1,0 +1,6 @@
+pyrogram==1.4.14
+tgcrypto==1.2.3
+aiohttp==3.8.1
+yarl==1.7.2
+bs4==0.0.1
+aiohttp_socks==0.7.1
